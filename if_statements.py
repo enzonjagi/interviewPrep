@@ -20,11 +20,11 @@ Solution
     use the conversion metric(1kg = 2.205lbs) to give output required
 """
 weightValue = float(input("Weight: "))
-metric = input("(K)g or (L)bs: ")
+unit = input("(K)g or (L)bs: ")
 
 convert = 2.205
 
-if metric == "l" or metric == "L":
+if unit == "l" or unit == "L":
     print(weightValue/convert)
 elif metric=="k" or metric=="K":
     print(weightValue*convert)
