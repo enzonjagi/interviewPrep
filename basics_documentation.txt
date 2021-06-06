@@ -1,0 +1,9 @@
+Operator Precedence:
+    Applies the math order of evaluation: reserch this for more info
+    Although you can use parenthesis to change this
+
+Comparison operators:
+    = assign value
+    == check if a number is equal to another number
+    != not equal
+    
