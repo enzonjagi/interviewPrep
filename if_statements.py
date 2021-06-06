@@ -26,7 +26,7 @@ convert = 2.205
 
 if unit == "l" or unit == "L":
     print(weightValue/convert)
-elif metric=="k" or metric=="K":
+elif unit=="k" or unit=="K":
     print(weightValue*convert)
 else:
     print("Invalid metric")
