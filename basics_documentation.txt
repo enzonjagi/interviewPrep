@@ -6,4 +6,8 @@ Comparison operators:
     = assign value
     == check if a number is equal to another number
     != not equal
-    
+
+Logical operators
+    and (both)
+    or (at least one)
+    not (inverse)
